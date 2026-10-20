@@ -1,0 +1,6 @@
+{
+  "name": "BUTTAA",
+  "description": "Smart Agricultural Marketplace connecting farmers, buyers, equipment suppliers, seed sellers, and AI agricultural expert guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
